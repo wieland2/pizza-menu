@@ -1,3 +1,5 @@
+This is a quick and simple pizza-menu react follow along project. This project was made using the material provided by Jonas Schmedtmann in his udemy "Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns" course.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
