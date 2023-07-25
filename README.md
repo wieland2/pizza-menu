@@ -1,4 +1,4 @@
-This is a quick and simple pizza-menu react follow along project. This project was made using the material provided by Jonas Schmedtmann in his udemy "Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns" course.
+This is a quick and simple pizza-menu react follow along project. For this project I used material provided by Jonas Schmedtmann in his udemy "Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns" course. This project provided me with basic react knwoledge such as components, JSX and props!
 
 # Getting Started with Create React App
 
